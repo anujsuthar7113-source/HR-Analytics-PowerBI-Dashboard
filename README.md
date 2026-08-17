@@ -15,7 +15,7 @@ The dashboard shows employee count, active employees, attrition, salary slabs, d
 
 ## Dashboard
 
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR%20Analytics%20Dashboard.png)
 
 ## Main KPIs
 
